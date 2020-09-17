@@ -2,6 +2,7 @@
   "name": "scss-clone",
   "version": "1.0.0",
   "main": "index.js",
+  "repository": "https://github.com/Gyeonghun-Park/scss-clone",
   "author": "Gyeonghun Park <gp112795@gmail.com>",
   "license": "MIT",
   "dependencies": {
